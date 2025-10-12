@@ -118,3 +118,5 @@ rm -rf contracts/* & mv scripts/fdcExample/Base.ts ./Base.ts & rm -rf scripts/* 
 - [Flare Developer Hub](https://dev.flare.network/)
 - [Hardhat Guides](https://dev.flare.network/fdc/guides/hardhat)
 - [Hardhat Docs](https://hardhat.org/docs)
+
+<!-- Auto-update: 2025-10-12T14:41:24.025109 -->
