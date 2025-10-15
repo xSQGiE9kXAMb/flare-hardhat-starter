@@ -21,3 +21,5 @@ You can copy the exact command from a comment at the top of each script, after t
 The corresponding contracts are defined in `contracts/fdcExample/<AttestationType.ts>`.
 
 For an in-depth guides on how to use different attestation types, go to the [Flare Developer Hub](https://dev.flare.network/fdc/guides/hardhat).
+
+<!-- Auto-update: 2025-10-15T17:27:23.296502 -->
