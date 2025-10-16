@@ -37,3 +37,5 @@ The corresponding contracts are defined in `contracts/weatherInsurance/weatherId
 You can copy the exact command from a comment at the top of each script, after the imports.
 
 For an in-depth guide on the MinTemp weather insurance, go to the [Flare Developer Hub](https://dev.flare.network/fdc/guides/hardhat/weather-insurance).
+
+<!-- Auto-update: 2025-10-16T11:45:52.304642 -->
